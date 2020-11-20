@@ -1,0 +1,2 @@
+# responsive-touch-slider
+ 
